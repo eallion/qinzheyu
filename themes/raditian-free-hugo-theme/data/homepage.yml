@@ -7,7 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Qinzheyu."
   subtitle: "I’m 3 years old!"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "本站（博客）建立于2017年07月21日 —— 秦喆语（豆豆）出生的日子。后来改版为博客，记录生活点滴，记录“豆豆”的成长。"
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
